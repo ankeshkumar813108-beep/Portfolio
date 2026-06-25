@@ -1,0 +1,23 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">Abstract professional profile placeholder for Ankesh Kumar portfolio.</desc>
+  <rect width="640" height="640" rx="64" fill="#090B18"/>
+  <circle cx="320" cy="284" r="112" fill="url(#paint0_linear)"/>
+  <path d="M128 560C154 452 224 400 320 400C416 400 486 452 512 560H128Z" fill="url(#paint1_linear)"/>
+  <circle cx="132" cy="132" r="72" fill="#7C3AED" fill-opacity=".25"/>
+  <circle cx="528" cy="146" r="96" fill="#06B6D4" fill-opacity=".16"/>
+  <path d="M116 120L184 152L116 184L136 152L116 120Z" fill="#C084FC" fill-opacity=".55"/>
+  <path d="M476 120H548V132H476V120ZM476 150H548V162H476V150ZM476 180H524V192H476V180Z" fill="#67E8F9" fill-opacity=".55"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="220" y1="172" x2="432" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset=".48" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="128" y1="400" x2="478" y2="635" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset=".5" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
